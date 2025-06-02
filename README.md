@@ -56,8 +56,9 @@ This handles scheduling and user login via /login and /schedule:
 bash
 ```
 python flask_server.py
-Ensure it runs on http://localhost:5000.
 ```
+Ensure it runs on http://localhost:5000.
+
 5. Run the Telegram Bot
 In a separate terminal:
 
