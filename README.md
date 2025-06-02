@@ -63,10 +63,10 @@ In a separate terminal:
 
 bash
 ```
-python telegram_bot.py
+python app.py
 ```
 ## 💬 How to Use
-- Start the bot
+- Start the bot(run the flask server first)
 
 Type /start
 
